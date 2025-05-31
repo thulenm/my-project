@@ -22,3 +22,4 @@ Some key findings from the analysis:
 
 Detailed analysis is included in the Jupiter Notebook. 
 
+* In order to run the codes, download the following package : numpy scipy pandas matplotlib statsmodels seaborn 
